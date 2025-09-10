@@ -13,7 +13,8 @@ Visualization: Tableau, Power BI, Advanced MS Excel
 Big Data & Cloud: Hadoop, PySpark, Apache Airflow, Apache Nifi, Linux
 Concepts: ETL, Machine Learning, Time-Series Forecasting, Deep Learning, Generative AI
 
-What I am Learning Currently: Cloud Platform - AWS
+What I am Learning Currently: 
+1. Cloud Platform - AWS
 
 Projects: 
 1. Airport & Flight Data Dashboard – Created an ETL pipeline and developed a dashboard to visualize and analyze airport and flight data.
@@ -21,7 +22,8 @@ Projects:
 3. Currency Exchange Dashboard  – Built a dashboard to track and analyze EUR and USD exchange rates over time.
 4. Self-Esteem & Class Participation Study – Conducted a mini research project exploring the relationship between self-esteem and participation in class.
 5. Coral Health Classification – Performed image processing and applied machine learning techniques to classify coral health.
-6. Fraud Detection System – Developed a model to detect fraudulent transactions in datasets.
-7. Gold Price Forecasting – Forecasted gold prices using ARIMA models and compared custom-built models with predefined ones.
+6. Gold Price Forecasting – Forecasted gold prices using ARIMA model.
+
+- Currently working on:
 8. Data Cleaning & EDA with SQL – Applied SQL techniques for data cleaning and exploratory data analysis on real-world datasets.
-9. UK Customer Distribution Analysis – Analyzed customer distribution patterns across the UK using demographic and transactional data.
+9. Fraud Detection System – Developed a model to detect fraudulent transactions in datasets.
