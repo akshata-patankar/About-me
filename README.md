@@ -6,12 +6,12 @@ I hold a Master’s in Data Science and a Bachelor’s in Mathematics, which pro
 I aim to contribute effectively to projects, take responsibility in delivering results, and continue to learn and grow in the field of Data Science. I believe in applying data-driven solutions to solve real-world problems and make meaningful impacts.
 
 Skills:
-Languages: Python, SQL, R
-Libraries/Tools: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
-Databases: MySQL, MongoDB, PostgreSQL
-Visualization: Tableau, Power BI, Advanced MS Excel
-Big Data & Cloud: Hadoop, PySpark, Apache Airflow, Apache Nifi, Linux
-Concepts: ETL, Machine Learning, Time-Series Forecasting, Deep Learning, Generative AI
+* Languages: Python, SQL, R
+* Libraries/Tools: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
+* Databases: MySQL, MongoDB, PostgreSQL
+* Visualization: Tableau, Power BI, Advanced MS Excel
+* Big Data & Cloud: Hadoop, PySpark, Apache Airflow, Apache Nifi, Linux
+* Concepts: ETL, Machine Learning, Time-Series Forecasting, Deep Learning, Generative AI
 
 What I am Learning Currently: 
 1. Cloud Platform - AWS
@@ -21,7 +21,7 @@ Projects:
 2. Grocery Data ETL Pipeline – Designed and implemented an ETL pipeline to process and structure grocery data for analysis.
 3. Currency Exchange Dashboard  – Built a dashboard to track and analyze EUR and USD exchange rates over time.
 4. Self-Esteem & Class Participation Study – Conducted a mini research project exploring the relationship between self-esteem and participation in class.
-5. Coral Health Classification – Performed image processing and applied machine learning techniques to classify coral health.
+5. [Coral Health Classification] – Performed image processing and applied machine learning techniques to classify coral health.
 6. Gold Price Forecasting – Forecasted gold prices using ARIMA model.
 
 - Currently working on:
