@@ -14,7 +14,8 @@ Skills:
 * Concepts: ETL, Machine Learning, Time-Series Forecasting, Deep Learning, Generative AI
 
 What I am Learning Currently: 
-1. Cloud Platform - AWS
+1. Cloud Platform - AWS Cloud Practitioner Essentials
+2. Risk Management - OpenU
 
 Projects: 
 1. Airport & Flight Data Dashboard – Created an ETL pipeline and developed a dashboard to visualize and analyze airport and flight data.
