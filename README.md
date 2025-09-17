@@ -23,7 +23,7 @@ Projects:
 3. Currency Exchange Dashboard  – Built a dashboard to track and analyze EUR and USD exchange rates over time.
 4. Self-Esteem & Class Participation Study – Conducted a mini research project exploring the relationship between self-esteem and participation in class.
 5. [Coral Health Classification](https://github.com/akshata-patankar/Coral-health-classification) – Performed image processing and applied machine learning techniques to classify coral health.
-6. Gold Price Forecasting – Forecasted gold prices using ARIMA model.
+6. [Gold Price Forecasting](https://github.com/akshata-patankar/Gold-Price-Forecasting) – Forecasted gold prices using ARIMA model.
 
 - Currently working on:
 8. Data Cleaning & EDA with SQL – Applied SQL techniques for data cleaning and exploratory data analysis on real-world datasets.
